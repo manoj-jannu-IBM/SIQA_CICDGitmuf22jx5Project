@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: SIQA_CICDGitmuf22jx5Project
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: yrsy
+    type: REST
+    path: /add
+    action: GET
+    reference: fld_144941758_stage00.projects.fl21b88e90905248cc75ef28.WmPackageServiceProvider.project.siqa_cicdgitmuf22jx5.integrations:test
